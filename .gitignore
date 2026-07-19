@@ -1,12 +1,4 @@
-# Python
+*.log
+*.tmp
 __pycache__/
 *.pyc
-
-# Logs
-*.log
-
-# Temp files
-*.tmp
-
-# VS Code
-.vscode/
