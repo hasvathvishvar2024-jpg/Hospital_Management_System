@@ -5,5 +5,5 @@ def login_user(username):
     print(f"User {username} logged in successfully!")
 register_patient("Lara",21)
 login_user("admin")
-print("Feature1 version")
-print("Master version")
+print("Patient registration updated (merged both changes)")
+
